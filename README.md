@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**ViniNovack/ViniNovack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello, world! 👋
+Welcome to my GitHub! I'm a **Computer Science student at PUCPR**, passionate about technology and constantly evolving in the development field.
+---
+## 🚀 My Journey
+My first contact with programming was through the famous **CS50 – Introduction to Computer Science** course from **Harvard University**, where I learned the essential fundamentals of computing: programming logic, algorithms, data structures, and problem solving. That's where it all began! 
+🎓Today, I'm deepening that knowledge by studying **Computer Science at PUCPR**, expanding my technical foundation and exploring new areas of computing.
+---
+## 🛠️ Technologies & Tools
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### IDEs & Editors
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+## 📚 Education
+| 🎓 Institution | 📖 Course | 📅 Status |
+|---|---|---|
+| Harvard University (Online) | CS50 – Introduction to Computer Science | ✅ Completed |
+| PUCPR | Computer Science | 🔄 In progress |
+---
+## 📈 GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
