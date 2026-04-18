@@ -18,7 +18,7 @@ My first contact with programming was through the famous **CS50 – Introduction
 | Harvard University (Online) | CS50 – Introduction to Computer Science | ✅ Completed |
 | PUCPR | Computer Science | 🔄 In progress |
 ---
-## 📈 GitHub Stats
+📈 GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=6&theme=tokyonight"/>
