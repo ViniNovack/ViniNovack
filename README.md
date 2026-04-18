@@ -2,7 +2,7 @@
 Welcome to my GitHub! I'm a **Computer Science student at PUCPR**, passionate about technology and constantly evolving in the development field.
 ---
 ## 🚀 My Journey
-My first contact with programming was through the famous **CS50 – Introduction to Computer Science** course from **Harvard University**, where I learned the essential fundamentals of computing: programming logic, algorithms, data structures, and problem solving. That's where it all began! 
+My first contact with programming was through the famous **CS50 – Introduction to Computer Science** course from **Harvard University**, where I learned the essential fundamentals of computing: programming logic, algorithms and problem solving. That's where it all began! 
 🎓Today, I'm deepening that knowledge by studying **Computer Science at PUCPR**, expanding my technical foundation and exploring new areas of computing.
 ---
 ## 🛠️ Technologies & Tools
