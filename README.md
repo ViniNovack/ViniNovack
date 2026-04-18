@@ -6,6 +6,9 @@ My first contact with programming was through the famous **CS50 – Introduction
 🎓Today, I'm deepening that knowledge by studying **Computer Science at PUCPR**, expanding my technical foundation and exploring new areas of computing.
 ---
 ## 🛠️ Technologies & Tools
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ### IDEs & Editors
