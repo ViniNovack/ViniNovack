@@ -23,6 +23,6 @@ My first contact with programming was through the famous **CS50 – Introduction
 ---
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniNovack&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=ViniNovack&theme=tokyonight&hide_border=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniNovack&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
