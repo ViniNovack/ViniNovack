@@ -26,5 +26,5 @@ My first contact with programming was through the famous **CS50 – Introduction
 ## 📈 GitHub Stats
 <div align="center">
   <img height="160em" src="https://streak-stats.demolab.com?user=ViniNovack&theme=tokyonight&hide_border=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniNovack&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniNovack&theme=tokyonight"/>
 </div>
