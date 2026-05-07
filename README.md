@@ -20,8 +20,9 @@ My first contact with programming was through the famous **CS50 – Introduction
 ## 📚 Education
 | 🎓 Institution | 📖 Course | 📅 Status |
 |---|---|---|
-| Harvard University (Online) | CS50 – Introduction to Computer Science | ✅ Completed |
-| PUCPR | Computer Science | 🔄 In progress |
+| <img src="https://www.google.com/s2/favicons?domain=harvard.edu&sz=32" width="20"/> **Harvard University** | CS50 – Introduction to Computer Science | ✅ Completed |
+| <img src="https://www.google.com/s2/favicons?domain=cursoemvideo.com&sz=32" width="20"/> **Curso em Vídeo** | Python 3 | ✅ Completed |
+| <img src="https://www.google.com/s2/favicons?domain=pucpr.br&sz=32" width="20"/> **PUCPR** | Computer Science | 🔄 In progress |
 ---
 ## 📈 GitHub Stats
 <div align="center">
