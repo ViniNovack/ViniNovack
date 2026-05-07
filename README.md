@@ -2,7 +2,7 @@
 Welcome to my GitHub! I'm a **Computer Science student at PUCPR**, passionate about technology and constantly evolving in the development field.
 ---
 ## 🚀 My Journey
-My first contact with programming was through the famous **CS50 – Introduction to Computer Science** course from ![Harvard](https://img.shields.io/badge/Harvard_University-A51C30?style=flat-square&logoColor=white) where I learned the essential fundamentals of computing: programming logic, algorithms and problem solving. That's where it all began! 
+My first contact with programming was through the famous **CS50 – Introduction to Computer Science** course from <img src="https://www.google.com/s2/favicons?domain=harvard.edu&sz=32" width="20"/> **Harvard University** where I learned the essential fundamentals of computing: programming logic, algorithms and problem solving. That's where it all began! 
 🎓Today, I'm deepening that knowledge by studying **Computer Science at PUCPR**, expanding my technical foundation and exploring new areas of computing.
 ---
 ## 🛠️ Technologies & Tools
@@ -21,7 +21,7 @@ My first contact with programming was through the famous **CS50 – Introduction
 | 🎓 Institution | 📖 Course | 📅 Status |
 |---|---|---|
 | <img src="https://www.google.com/s2/favicons?domain=harvard.edu&sz=32" width="20"/> **Harvard University** | CS50 – Introduction to Computer Science | ✅ Completed |
-| <img src="https://www.google.com/s2/favicons?domain=cursoemvideo.com&sz=32" width="20"/> **Curso em Vídeo** | Python 3 | ✅ Completed |
+| <img src="https://www.google.com/s2/favicons?domain=cursoemvideo.com&sz=32" width="20"/> **Curso em Vídeo** | Python | ✅ Completed |
 | <img src="https://www.google.com/s2/favicons?domain=pucpr.br&sz=32" width="20"/> **PUCPR** | Computer Science | 🔄 In progress |
 ---
 ## 📈 GitHub Stats
